@@ -1,5 +1,5 @@
 # _config.yml
-
-title: "Jekyll Actions Demo"
+theme: jekyll-theme-cayman
+title: "GermEval2024 - GerMS"
 
 
