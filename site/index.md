@@ -1,8 +1,4 @@
-* Text giving an overview of the shared task
-* links to the details of [subtask 1](subtask1.md) and [subtask 2](subtask2.md)
-
-## GermEval-2024 Task - Sexism Detection in German Online News Fo
-ra
+## GermEval-2024 Task - Sexism Detection in German Online News Fora
 
 This shared task is about the detection of sexism/misogyny in comments
 posted in (mostly) German language to the comment section of an Austrian
@@ -65,7 +61,7 @@ are organized into two different tracks:
 * **Shared Task @KONVENS**: 9 September, 2024
 
 ## Organizers
-The task is organized by the **Austrian Research Institute for Artificial Intelligence (OFAI)**. The organizing team are:
+The task is organized by the [**Austrian Research Institute for Artificial Intelligence (OFAI)**](https://ofai.at). The organizing team are:
 
 * [Brigitte Krenn](https://www.ofai.at/~brigitte.krenn/) (brigitte.krenn (AT) ofai.at)
 * [Johann Petrak](https://johann-petrak.github.io/) (johann.petrak (AT) ofai.at)
