@@ -43,24 +43,27 @@ The shared task is divided into two subtasks:
 
 ## Closed and open tracks
 
-Each of the [subtask 1](subtask1.md) and [subtask 2](subtask2.md) competitions 
+Each of the [subtask 1](subtask1.html) and [subtask 2](subtask2.md) competitions 
 are organized into two different tracks:
 
 * [Closed Track](closed-track.md): in this track, models can only be trained with the provided training set. Models are limited as to what kind of data for pretraining is allowed. Only the closed track counts towards the competition of the shared task and a closed track submission is required for the submission of a paper. See the linked document for details.
-* [Open Track](open-track.md): in this track, anything goes really: you can use language models, use your own training data (but you have to share it with the community) or use other interesting approaches. The open track does NOT count towards the competition ranking but has been added to allow for the exploration of interesting strategies which may be hard to reproduce. 
+* [Open Track](open-track.md): in this track, anything goes really: you can use language models, use your own training data (but you have to share it with the community) or use other interesting approaches. The open track does NOT count towards the competition ranking but has its own leader board and has been added to allow for the exploration of interesting strategies which may be hard to reproduce. 
  
-
-
 ## Timeline
 
-* **Development phase**: April 14 - May 17, 2024
-* **Testing phase**: May 18 - June 12, 2024
-* **Evaluation phase**: June 13 - June 25, 2024
+* **Development phase**: April 14 - June 12, 2024
+  * During the development phase, a labeled training set and an unlabeled development set are made available. You can upload the labels for the development set
+    to the competition site and will see the ranking of your submission on the leaderboard.
+* **Competition phase**: June 13 - June 25, 2024
+  * During the competition phase, the labeled training and development set is released and an unlabeled test set is made available. You can upload the labels for 
+    the test set to the competition site and your most last submission will be the one that will be used for ranking. During that phase, the leaderboard is not shown. 
+    The final leaderboard/ranking is shown after the end of the competition phase. 
 * **Paper submission due**: July 1, 2024
 * **Camera ready due**: July 20, 2024
 * **Shared Task @KONVENS**: 9 September, 2024
 
 ## Organizers
+
 The task is organized by the [**Austrian Research Institute for Artificial Intelligence (OFAI)**](https://ofai.at). The organizing team are:
 
 * [Brigitte Krenn](https://www.ofai.at/~brigitte.krenn/) (brigitte.krenn (AT) ofai.at)

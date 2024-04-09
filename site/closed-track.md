@@ -1,1 +1,15 @@
-In the closed tracks, participants agree to use only the annotated data provided within this task to develop their model. No (i) additional data labelled for sexism or misogyn or (ii) additional models trained on data labelled for sexism or misogyny are allowed. Participants having made at least one submission in a closed track during the Test Phase will be invited to submit a paper for the Shared Task at KONVENS 2024 describing their system. If participants also made at least one submission for an open track, they can also include a comparison of their approaches in the paper. 
+# Closed Track Competition
+
+There is a _Closed Track_ competition for each of the two subtasks. Please note the following:
+
+* The closed track competitions are the main competitions: in order to submit a paper that describes your approach, you have to submit to the closed track of 
+  one or both of subtask 1 and subtask 2.
+* If you have submitted to the closed track of one or both subtasks, you can also include information about your open track approach in your paper submission.
+* IMPORTANT: In the closed tracks, participants agree to use **only** the annotated data provided within this task to develop their model. More specifically:
+  * the use of additional data labelled for sexism or misogyn is not allowed
+  * the use of pretrained models or embeddings trained on data labelled for sexism or misogyny is not allowed
+  * the use of other models, ontologies, knowledge bases or similar that contains specific knowledge about sexism / misogyny is not allowed
+  * pretrained models like BERT or embeddings are allowed as long as they have not been specifically pre-trained or fine-tuned on sexism/misogyny-specific data other than the data shared for this competition
+* If in doubt if your approach is compatible with the closed track requirements, please ask in the competition forum or send an email to the 
+  organizers. If you send an email to the organizers you can include information which you might not want to share in the forum which the organizers will 
+  keep confidential. 
