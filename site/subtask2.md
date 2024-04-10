@@ -1,5 +1,4 @@
-# Submission Instructions
-## How to participate
+# GermEval2024 GerMS - Subtask 2
 
 For the development phase of subtask 1, we provide all participants with the following data:
 * the labeled training set containing 'id', 'text', and 'annotations'

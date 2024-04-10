@@ -1,7 +1,7 @@
-# Closed Track Competition
+# GermEval2024 GerMS - Open Track Competitions
 
 
-There is an _Olosed Track_ competition for each of the two subtasks. Please note the following:
+There is an _Open Track_ competition for each of the two subtasks. Please note the following:
 
 * In the open tracks, participants are encouraged to use whatever approach they prefer
 * Additional labeld data or models or embeddings trained on labelled data are allowed.
