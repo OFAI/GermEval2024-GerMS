@@ -18,7 +18,7 @@ While the annotation guidelines define what kind of sexism/misogyny should get a
 give rules about how to decide on the strength. For this reason, if an annotator decided that sexism/misogyny is present in a text,
 the strength assigned is a matter of personal judgement.
 
-The labels to predict in subtask one reflect different strategies for how multiple labels from annotators can be use to derive a final
+The labels to predict in subtask 1 reflect different strategies for how multiple labels from annotators can be use to derive a final
 target label:
 
 * `bin_maj`: predict `1` if a majority of annotators assigned a label other than `0-Kein`, predict `0` if a majority of annotators assigned a label 
@@ -31,11 +31,18 @@ target label:
 
 ## Data
 
-For the development phase of subtask 1, we provide all participants with the following data:
+For the *trial phase* of subtask 1, we provide a small dataset, containing
+* a small labeled dataset containing 'id', 'text', and 'annotations' (annotator ids and the label assigned by them)
+* a small unlabeled dataset containing 'id', 'text' and 'annotators' (annotator ids)
+
+For the *development phase* of subtask 1, we provide all participants with the following data:
 * the labeled training set containing 'id', 'text', and 'annotations' (annotator ids and the label assigned by them)
 * the unlabeled dev set containing 'id', 'text' and 'annotators' (annotator ids)
 
-Both files are in JSONL format (one JSON-serialized object per line) where each object is a dictionary with the following 
+For the *competition phase* of subtask 1, we provide
+* the unlabeled test set containing 'id', 'text' and 'annotators' (annotator ids)
+  
+All of the five files are in JSONL format (one JSON-serialized object per line) where each object is a dictionary with the following 
 fields:
 
 * `id`: a hash that identifies the example
@@ -46,8 +53,7 @@ fields:
   * Note that the number of annotations and the specific annotators who assigned labels vary between examples
 * `annotators` (only in the unlabeled dataset): an array of annotator ids who labeled the example
 
-You can [download](download.md) the labeled and unlabeled data for the development phase and for the competition phase.
-
+You can [download](download.md) the data for each phase as soon as the corresponding phase starts.
 
 ## Submission
 
@@ -79,21 +85,22 @@ To submit your predictions to the competition:
 
 ## Phases
 
-* For the Development Phase, multiple submissions are allowed and they serve the purpose of developing and improving the model(s).
-* For the Test Phase, participants may only submit a limited number of times. Please note that only the latest valid submission determines the final task ranking.
+* For the *trial phase*, multiple submissions are allowed for getting to know the problem and the subtask.
+* For the *development phase*, multiple submissions are allowed and they serve the purpose of developing and improving the model(s).
+* For the *competition phase*, participants may only submit a limited number of times. Please note that only the latest valid submission determines the final task ranking.
 
 ## Evaluation
 
-### Evaluation Data
+System performance on all five predicted labels (`bin_maj`, `bin_one`, `bin_all`, `multi_maj`, `disagree_bin`) is evaluated using F1 macro score 
+over all classes.
 
-For the Development Phase, systems will be evaluated on the development data labels. For the Test Phase, systems will be evaluated on the test labels. The development data is available [add link](add-link). The test sets will be available as soon as the corresponding test phase starts.
+The final `score` which is used for ranking the submissions is calculated as the unweighted average over all 5 scores. 
 
-### Evaluation Metrics
 
-TBD
-
-## Submission errors
+## Submission errors and warnings
 
 A submission is successful, if it has the submission status 'finished'. 'Failed' submissions can be investigated for error sources by clicking at '?' next to 'failed' and looking at LOGS > scoring logs > stderr. 
- 
 
+If you experience any issue such as a submission file stuck with a "scoring" status, please cancel the submission and try again. In case the problem persists you can contact us using the Forum.
+
+Following a successful submission, you need to refresh the web page in order to see your score and your result on the leaderboard.
