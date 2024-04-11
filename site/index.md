@@ -45,7 +45,7 @@ The shared task is divided into two subtasks:
 
 ## Closed and open tracks
 
-Each of the [subtask 1](subtask1.html) and [subtask 2](subtask2.md) competitions 
+Each of the [Subtask 1](subtask1.html) and [Subtask 2](subtask2.md) competitions 
 are organized into two different tracks:
 
 * [Closed Track](closed-track.md): in this track, models can only be trained with the provided training set. Models are limited as to what kind of data for pretraining is allowed. Only the closed track counts towards the competition of the shared task and a closed track submission is required for the submission of a paper. See the linked document for details.
@@ -54,10 +54,10 @@ are organized into two different tracks:
  
 ## Timeline
 
-* **Trial phase**:  April 16 - April 30, 2024
+* **Trial phase**:  April 20 - April 29, 2024
   * A small labeled dataset for training and a small unlabeled dataset to use for the submission are provided. This phase is for getting to know the 
     problem, dataset format, how to submit predictions, how submissions are evaluated and the evaluation shows up on the leaderboard etc. 
-* **Development phase**: May 1 - June 6, 2024
+* **Development phase**: May 1 - June 5, 2024
   * During this phase, a labeled training set and an unlabeled test set are made available. The training set will contain the updated labeled versions of the 
     training and test set of the previous phase plus additional labeled examples. Submissions have to contain the predictions for the unlabeled test set
     and the evaluation of the submission will sho up on the leaderbord. 
@@ -68,7 +68,7 @@ are organized into two different tracks:
     The final leaderboard/ranking is shown after the end of the competition phase. 
 * **Paper submission due**: July 1, 2024
 * **Camera ready due**: July 20, 2024
-* **Shared Task @KONVENS**: 9 September, 2024
+* **Shared Task @KONVENS**: 10 September, 2024
 
 ## Organizers
 
