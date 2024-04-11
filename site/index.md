@@ -68,7 +68,7 @@ are organized into two different tracks:
     The final leaderboard/ranking is shown after the end of the competition phase. 
 * **Paper submission due**: July 1, 2024
 * **Camera ready due**: July 20, 2024
-* **Shared Task @KONVENS**: 9 September, 2024
+* **Shared Task @KONVENS**: 10 September, 2024
 
 ## Organizers
 
