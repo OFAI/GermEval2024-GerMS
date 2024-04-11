@@ -2,6 +2,9 @@
 
 IMPORTANT: please note that there is a [closed](closed-track.md) and an [open](open-track.md) track for this subtask!
 
+**Only submissions to the closed track which follow the rules for the closed track qualify for a paper submission and only an accepted paper qualifies for the 
+inclusion of your results in the final competition ranking.**
+
 In subtask 2 the goal is to predict the distribution for each text in a dataset where the distribution is  derived from the original distribution of labels assigned by several human annotators. 
 
 The human annotators assigned (according to the [annotation guidelines](guidelines.md) ) 
@@ -100,6 +103,8 @@ The overall score which is used for ranking the submissions is calculated as the
 
 
 ## Submission errors and warnings
+
+Always make sure a phase is selected before trying to upload your submission.
 
 A submission is successful, if it has the submission status 'finished'. 'Failed' submissions can be investigated for error sources by clicking at '?' next to 'failed' and looking at LOGS > scoring logs > stderr. 
 
