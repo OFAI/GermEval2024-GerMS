@@ -1,5 +1,3 @@
-# GermEval2024 Shared Task GerMS
-
 ## GermEval2024 Shared Task: GerMS-Detect -- Sexism Detection in German Online News Fora
 
 This shared task is about the detection of sexism/misogyny in comments
