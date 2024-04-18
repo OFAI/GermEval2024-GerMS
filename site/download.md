@@ -6,6 +6,9 @@ for each of the phases of the GermEval2024 GerMS competition.
 
 ## Trial Phase
 
+* [Training Data](data/germeval-trial-train.jsonl)
+* [Testing Data](data/germeval-trial-test.jsonl)
+
 
 ## Development Phase
 
