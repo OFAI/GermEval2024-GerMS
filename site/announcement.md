@@ -2,13 +2,13 @@ GermEval2024 Shared Task: GerMS-Detect -- Sexism Detection in German Online News
  
 CALL FOR PARTICIPATION
 
-9 September 2024 at KONVENS 2024, Vienna, Austria
+10 September 2024 at KONVENS 2024, Vienna, Austria
 
 [https://ofai.github.io/GermEval2024-GerMS/](https://ofai.github.io/GermEval2024-GerMS/)
 
 ---- Task description ----
 
-This shared task is about the detection of sexism/misogyny in comments posted in (mostly) German language to the comment section of an Austrian online newspaper. The data was originally collected for the development of a classifier that supports the human moderators in detecting potentially sexist comments or identify comment fora with a high rate of sexist comments. The texts identified as being sexist are often especially challenging for automatic classification because they often refer to some implied context which is not available or are formulated in a subtle way, avoiding strong or outright offensive language. The main aim of annotating the presence and strength of sexism/misogyny in the corpus was to identify comments which make it less welcoming to women to participate in the conversation. Since the sexism/misogyny present in this corpus is often present in a subtle form that avoids outright offensiveness or curse words, there are many texts where annotators have different opinios on whether the text should be regarded as sexist, or which degree of sexism should be assigned to it. This shared task therefore also provides an opportunity to learn about how to deal with diverging opinions among annotators and how to train models on such a corpus which potentially can also inform about how diverging the opinions on a new text might be.
+This shared task is about the detection of sexism/misogyny in comments posted in (mostly) German language to the comment section of an Austrian online newspaper. The data was originally collected for the development of a classifier that supports human moderators in detecting potentially sexist comments or identify comment fora with a high rate of sexist comments. The texts identified as being sexist are often especially challenging for automatic classification because they often refer to some implied context which is not available or are formulated in a subtle way, avoiding strong or outright offensive language. The main aim of annotating the presence and strength of sexism/misogyny in the corpus was to identify comments which make it less welcoming to women to participate in the conversation. Since the sexism/misogyny present in this corpus is often present in a subtle form that avoids outright offensiveness or curse words, there are many texts where annotators have different opinios on whether the text should be regarded as sexist, or which degree of sexism should be assigned to it. This shared task therefore also provides an opportunity to learn about how to deal with diverging opinions among annotators and how to train models on such a corpus which potentially can also inform about how diverging the opinions on a new text might be.
 
 The shared task is divided into two subtasks:
 

@@ -85,6 +85,13 @@ To submit your predictions to the competition:
   * enter the name of your team which has been registered for the competition
   * give a name to your method 
   * confirm that you have checked that you are indeed submitting to the correct competition for the subtask and track desired
+ 
+**Submission errors and warnings**
+
+* Always make sure a phase is selected before trying to upload your submission.
+* A submission is successful, if it has the submission status 'finished'. 'Failed' submissions can be investigated for error sources by clicking at '?' next to 'failed' and looking at LOGS > scoring logs > stderr.
+* If you experience any issue such as a submission file stuck with a "scoring" status, please cancel the submission and try again. In case the problem persists you can contact us using the Forum.
+* Following a successful submission, you need to refresh the submission page in order to see your score and your result on the leaderboard.
 
 ## Phases
 
@@ -98,14 +105,5 @@ System performance on all five predicted labels (`bin_maj`, `bin_one`, `bin_all`
 over all classes.
 
 The final `score` which is used for ranking the submissions is calculated as the unweighted average over all 5 scores. 
-
-
-## Submission errors and warnings
-
-Always make sure a phase is selected before trying to upload your submission.
-
-A submission is successful, if it has the submission status 'finished'. 'Failed' submissions can be investigated for error sources by clicking at '?' next to 'failed' and looking at LOGS > scoring logs > stderr. 
-
-If you experience any issue such as a submission file stuck with a "scoring" status, please cancel the submission and try again. In case the problem persists you can contact us using the Forum.
 
 Following a successful submission, you need to refresh the web page in order to see your score and your result on the leaderboard.
