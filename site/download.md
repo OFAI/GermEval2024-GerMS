@@ -8,6 +8,9 @@ All files are made available under a [CC BY-NC-SA 4.0 License](https://creativec
 
 ## Trial Phase
 
+* [Training Data](data/germeval-trial-train.jsonl)
+* [Testing Data](data/germeval-trial-test.jsonl)
+
 
 ## Development Phase
 
