@@ -21,7 +21,7 @@ While the annotation guidelines define what kind of sexism/misogyny should get a
 give rules about how to decide on the strength. For this reason, if an annotator decided that sexism/misogyny is present in a text,
 the strength assigned is a matter of personal judgement.
 
-The labels to predict in subtask 1 reflect different strategies for how multiple labels from annotators can be use to derive a final
+The labels to predict in subtask 1 reflect different strategies for how multiple labels from annotators can be used to derive a final
 target label:
 
 * `bin_maj`: predict `1` if a majority of annotators assigned a label other than `0-Kein`, predict `0` if a majority of annotators assigned a label 
@@ -72,7 +72,7 @@ Your submission must be a file in TSV (tab separated values) format which contai
 Note that the way how you derive those labels is up to you (as long as the rules for the closed or open tracks are followed):
 
 * you can train several models or a single model to get the predictions
-* you can derive the mode-specific training set in any way from the labeled training data
+* you can derive the model-specific training set in any way from the labeled training data
 * you can use the information of which annotator assigned the label or ignore that
 
 To submit your predictions to the competition:
