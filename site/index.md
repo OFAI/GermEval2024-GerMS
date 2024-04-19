@@ -52,14 +52,14 @@ are organized into two different tracks:
 
 Before applying for participation in one or more of the Codabench competitions, make sure 
 you have read the [terms and conditions](terms.html) and you have also filled out the 
-[registration form](TODO) for you team.
+[registration form](https://forms.gle/RBeVviyse2Jy97dK9) for you team.
 
 * Subtask 1
-  * [Subtask 1 Closed Track](https://www.codabench.org/competitions/NNNN)
-  * [Subtask 1 Open Track](https://www.codabench.org/competitions/NNNN)
+  * [Subtask 1 Closed Track](https://www.codabench.org/competitions/2744)
+  * [Subtask 1 Open Track](https://www.codabench.org/competitions/2745)
 * Subtask 2
-  * [Subtask 2 Closed Track](https://www.codabench.org/competitions/NNNN)
-  * [Subtask 2 Open Track](https://www.codabench.org/competitions/NNNN)
+  * [Subtask 2 Closed Track](https://www.codabench.org/competitions/2746)
+  * [Subtask 2 Open Track](https://www.codabench.org/competitions/2747)
 
 ## Files
 

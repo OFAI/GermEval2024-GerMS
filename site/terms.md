@@ -3,7 +3,7 @@
 **Participation in the competition**: Any interested person may participate in the competition.
 
 To participate please follow these steps:
-* Fill out the [Registration Form](FORM)
+* Fill out the [Registration Form](https://forms.gle/RBeVviyse2Jy97dK9)
 * Apply for participation on one or more of the Codabench competion pages
 * Submit your solutions, specifying your registered team name
 
