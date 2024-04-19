@@ -48,6 +48,19 @@ are organized into two different tracks:
 * [Closed Track](closed-track.md): in this track, models can only be trained with the provided training set. Models are limited as to what kind of data for pretraining is allowed. Only the closed track counts towards the competition of the shared task and a closed track submission is required for the submission of a paper. See the linked document for details.
 * [Open Track](open-track.md): in this track, anything goes really: you can use language models, use your own training data (but you have to share it with the community) or use other interesting approaches. The open track does NOT count towards the competition ranking but has its own leader board and has been added to allow for the exploration of interesting strategies which may be hard to reproduce. 
 
+## Codabench Competitions
+
+Before applying for participation in one or more of the Codabench competitions, make sure 
+you have read the [terms and conditions](terms.html) and you have also filled out the 
+[registration form](TODO) for you team.
+
+* Subtask 1
+  * [Subtask 1 Closed Track](https://www.codabench.org/competitions/NNNN)
+  * [Subtask 1 Open Track](https://www.codabench.org/competitions/NNNN)
+* Subtask 2
+  * [Subtask 2 Closed Track](https://www.codabench.org/competitions/NNNN)
+  * [Subtask 2 Open Track](https://www.codabench.org/competitions/NNNN)
+
 ## Files
 
 The files can be downloaded from the [downloads page](download.mg) as they

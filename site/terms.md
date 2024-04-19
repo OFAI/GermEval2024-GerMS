@@ -1,6 +1,13 @@
 # Terms and Conditions
 
-**Participation in the competition**: Any interested person may participate in the competition. By your participation, you agree to the terms and conditions in their entirety, without amendment or provision. By participating in the competition, you consent to the public release of your scores and submissions at the GermEval-2024 workshop and in the associated proceedings. Participation is understood as any direct or indirect contributions to this site or the shared task organizers, such as, but not limited to: results of automatic scoring programs; manual, qualitative and quantitative assessments of the data submitted; task and systems papers submitted.
+**Participation in the competition**: Any interested person may participate in the competition.
+
+To participate please follow these steps:
+* Fill out the [Registration Form](FORM)
+* Apply for participation on one or more of the Codabench competion pages
+* Submit your solutions, specifying your registered team name
+
+By your participation, you agree to the terms and conditions in their entirety, without amendment or provision. By participating in the competition, you consent to the public release of your scores and submissions at the GermEval-2024 workshop and in the associated proceedings. Participation is understood as any direct or indirect contributions to this site or the shared task organizers, such as, but not limited to: results of automatic scoring programs; manual, qualitative and quantitative assessments of the data submitted; task and systems papers submitted.
 
 **Individual and team participation**: Participants can participate as individuals or as part of one team. Teams and individual participants must create exactly one account to participate in the Codabench competition and both teams and individuals must register a team name. Team name and user name must be supplied Team composition may not be changed once the Test Phase starts. Your system is named according to the team name provided at the time of submission, or to a suitable shorthand as determined by the task organizers.
 
