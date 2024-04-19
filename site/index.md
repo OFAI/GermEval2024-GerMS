@@ -85,6 +85,19 @@ become available.
 * **Camera ready due**: July 20, 2024
 * **Shared Task @KONVENS**: 10 September, 2024
 
+## Feedback
+
+If you have questions, if you encounter problems or if you want to give any other feedback for a subtask/trak, please use the corresponding
+forum for the Codabench competition (or just any forum if your feedback applies to all of them):
+
+* [Subtask 1 Closed Track Forum](https://www.codabench.org/forums/2662/)
+* [Subtask 1 Closed Track Forum](https://www.codabench.org/forums/2663/)
+* [Subtask 1 Closed Track Forum](https://www.codabench.org/forums/2664/)
+* [Subtask 1 Closed Track Forum](https://www.codabench.org/forums/2665/)
+
+Only if your feedback involves confidential information you do not want to share on one of these forums, contact 
+the Organizers directly by email: germeval2024 (AT) ofai (DOT) at
+
 ## Organizers
 
 The task is organized by the [**Austrian Research Institute for Artificial Intelligence (OFAI)**](https://ofai.at). The organizing team are:
