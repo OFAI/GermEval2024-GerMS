@@ -13,7 +13,8 @@ and the codabench user who made the submission also matches the codabench user n
 
 **Specific conditions for closed and open tracks**: Participants agree to follow the specific conditions for [closed tracks](link-tbd) and [open tracks](link-tbd), which specify the type of data allowed for pretraining the model.
 
-**Submission of systems description papers**: Participants having made at least one submission for a closed track during the Test Phase will be invited to submit a paper describing their system. Participants having made only submissions for open tracks will not be invited to submit a paper describing their system (see the specific conditions for closed and open tracks). For both tracks, we strongly encourage participants to provide a link to the code of their system(s) to organizers or the public at large. We also encourage you to upload any systems and models to an open-source repository such as the HuggingFace Hub. 
+**Submission of systems description papers**: Participants having made at least one submission for a closed track during the Test Phase will be able to submit a paper describing their system. Participants having made only submissions for open tracks will not be able to submit a paper describing their system (see the specific conditions for closed and open tracks). For the closed track paper submission the open-source code of their solution has to be accessible to the public. We also stronly encourage providing open source solutions 
+for the open track submissions as far as possible. 
 
 **Final Competition Ranking**: the final rankings for the closed tracks of subtask 1 and subtask 2 are determined after the paper review and camera ready submission have ended. 
 Only submissions for which a paper describing the sulution has been submitted and 

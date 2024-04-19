@@ -14,4 +14,4 @@ There is a _Closed Track_ competition for each of the two subtasks. Please note 
   organizers. If you send an email to the organizers you can include information which you might not want to share in the forum which the organizers will 
   keep confidential. 
 * **IMPORTANT**: Only fully open-source solutions will be accepted for publication. By submitting to a closed track you certify that the system described in the 
-  paper will be made available with an open-source license in a way that makes it possible to repeat your results / submissions. 
+  paper will be made available to the public with an open-source license in a way that makes it possible to repeat your results / submissions. 
