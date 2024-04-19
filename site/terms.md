@@ -7,7 +7,7 @@ To participate please follow these steps:
 * Apply for participation on one or more of the Codabench competion pages
 * Submit your solutions, specifying your registered team name
 
-By your participation, you agree to the terms and conditions in their entirety, without amendment or provision. By participating in the competition, you consent to the public release of your scores and submissions at the GermEval-2024 workshop and in the associated proceedings. Participation is understood as any direct or indirect contributions to this site or the shared task organizers, such as, but not limited to: results of automatic scoring programs; manual, qualitative and quantitative assessments of the data submitted; task and systems papers submitted.
+By your participation, you agree to the terms and conditions in their entirety, without amendment or provision. By participating in the competition, you consent to the public release of your scores and submissions at the GermEval-2024 workshop and in the associated proceedings. Participation is understood as any direct or indirect contributions to this site or the shared task organizers, such as, but not limited to: results of automatic scoring programs; manual, qualitative and quantitative assessments of the data submitted; task and system papers submitted.
 
 **Individual and team participation**: Participants can participate as individuals or as part of one team. Teams and individual participants must create exactly one account to participate in the Codabench competition and both teams and individuals must register a team name. Team name and user name must be supplied Team composition may not be changed once the Test Phase starts. Your system is named according to the team name provided at the time of submission, or to a suitable shorthand as determined by the task organizers.
 
@@ -18,12 +18,12 @@ and the codabench user who made the submission also matches the codabench user n
 
 **Data usage**: The provided data should be used responsibly and ethically. Do not attempt to misuse it in any way, including, but not limited to, reconstructing test sets, any non-scientific use of the data, or any other unconscionable usage of the data. You may not redistribute the task data except in the manner prescribed by its licence.
 
-**Specific conditions for closed and open tracks**: Participants agree to follow the specific conditions for [closed tracks](link-tbd) and [open tracks](link-tbd), which specify the type of data allowed for pretraining the model.
+**Specific conditions for closed and open tracks**: Participants agree to follow the specific conditions for [closed tracks](closed-track.html) and [open tracks](open-track.html), which specify the type of data allowed for pretraining the model.
 
-**Submission of systems description papers**: Participants having made at least one submission for a closed track during the Test Phase will be able to submit a paper describing their system. Participants having made only submissions for open tracks will not be able to submit a paper describing their system (see the specific conditions for closed and open tracks). For the closed track paper submission the open-source code of their solution has to be accessible to the public. We also stronly encourage providing open source solutions 
+**Submission of system description papers**: Participants having made at least one submission for a closed track during the Test Phase will be able to submit a paper describing their system. Participants having made only submissions for open tracks will not be able to submit a paper describing their system (see the specific conditions for closed and open tracks). For the closed track paper submission the open-source code of their solution has to be accessible to the public. We also stronly encourage providing open source solutions 
 for the open track submissions as far as possible. 
 
 **Final Competition Ranking**: the final rankings for the closed tracks of subtask 1 and subtask 2 are determined after the paper review and camera ready submission have ended. 
-Only submissions for which a paper describing the sulution has been submitted and 
+Only submissions for which a paper describing the solution has been submitted and an open source solution is available will be considered in the ranking. 
 
 **Acknowledgements**: This shared task was created by OFAI with funding from the FFG project EKIP.
