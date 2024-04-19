@@ -3,8 +3,8 @@
 There is a _Closed Track_ competition for each of the two subtasks. Please note the following:
 
 * The closed track competitions are the main competitions: in order to submit a paper that describes your approach, you have to submit to the closed track of 
-  one or both of subtask 1 and subtask 2.
-* If you have submitted to the closed track of one or both subtasks, you can also include information about your open track approach in your paper submission.
+  one or both of Subtask 1 and Subtask 2.
+* **Note:** If you have submitted to the closed track of one or both subtasks, you can also include information about your open track approach in your paper submission.
 * **IMPORTANT**: In the closed tracks, participants agree to use **only** the annotated data provided within this task to develop their model. More specifically:
   * the use of additional data labelled for sexism or misogyn is not allowed
   * the use of pretrained models or embeddings trained on data labelled for sexism or misogyny is not allowed
