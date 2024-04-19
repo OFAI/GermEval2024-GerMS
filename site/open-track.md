@@ -1,4 +1,4 @@
-# GermEval2024 GerMS - Open Track Competitions
+# Open Track Competitions
 
 
 There is an _Open Track_ competition for each of the two subtasks. Please note the following:

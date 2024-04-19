@@ -1,4 +1,4 @@
-# GermEval2024 GerMS - Subtask 2
+# Subtask 2
 
 IMPORTANT: please note that there is a [closed](closed-track.md) and an [open](open-track.md) track for this subtask!
 

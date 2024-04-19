@@ -1,4 +1,4 @@
-# GermEval2024 GerMS - Closed Track Competitions
+# Closed Track Competitions
 
 There is a _Closed Track_ competition for each of the two subtasks. Please note the following:
 

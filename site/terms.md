@@ -2,14 +2,20 @@
 
 **Participation in the competition**: Any interested person may participate in the competition. By your participation, you agree to the terms and conditions in their entirety, without amendment or provision. By participating in the competition, you consent to the public release of your scores and submissions at the GermEval-2024 workshop and in the associated proceedings. Participation is understood as any direct or indirect contributions to this site or the shared task organizers, such as, but not limited to: results of automatic scoring programs; manual, qualitative and quantitative assessments of the data submitted; task and systems papers submitted.
 
-**Individual and team participation**: Participants can participate as individuals or as part of one team. Teams and individual participants must create exactly one account to participate in the Codabench competition. Team composition may not be changed once the Test Phase starts. Your system is named according to the team name provided at the time of submission, or to a suitable shorthand as determined by the task organizers.
+**Individual and team participation**: Participants can participate as individuals or as part of one team. Teams and individual participants must create exactly one account to participate in the Codabench competition and both teams and individuals must register a team name. Team name and user name must be supplied Team composition may not be changed once the Test Phase starts. Your system is named according to the team name provided at the time of submission, or to a suitable shorthand as determined by the task organizers.
 
 **Scoring of submissions**: Submissions are evaluated with automatic and manual quantitative judgements, qualitative judgements, and any other metrics as the task organizers see fit. You accept that the ultimate decision of metric choice and score value is that of the task organizers. Organizers are under no obligation to release scores. Official scores may be withheld if organizers judge the submission incomplete, erroneous, deceptive, or violating the letter or spirit of the competition's rules. Inclusion of a submission's scores is not an endorsement of a team or individual's submission. If multiple submission files are uploaded during the Test Phase, the last submission file per group will be understood as the team's or participant's definitive submission and ranked as such in the task description paper. 
+
+Important: submission will only be considered for the final ranking if the team name specified for the submission matches a team that has been registered for participation 
+and the codabench user who made the submission also matches the codabench user name that has been specified in the registration for participation. 
 
 **Data usage**: The provided data should be used responsibly and ethically. Do not attempt to misuse it in any way, including, but not limited to, reconstructing test sets, any non-scientific use of the data, or any other unconscionable usage of the data. You may not redistribute the task data except in the manner prescribed by its licence.
 
 **Specific conditions for closed and open tracks**: Participants agree to follow the specific conditions for [closed tracks](link-tbd) and [open tracks](link-tbd), which specify the type of data allowed for pretraining the model.
 
 **Submission of systems description papers**: Participants having made at least one submission for a closed track during the Test Phase will be invited to submit a paper describing their system. Participants having made only submissions for open tracks will not be invited to submit a paper describing their system (see the specific conditions for closed and open tracks). For both tracks, we strongly encourage participants to provide a link to the code of their system(s) to organizers or the public at large. We also encourage you to upload any systems and models to an open-source repository such as the HuggingFace Hub. 
+
+**Final Competition Ranking**: the final rankings for the closed tracks of subtask 1 and subtask 2 are determined after the paper review and camera ready submission have ended. 
+Only submissions for which a paper describing the sulution has been submitted and 
 
 **Acknowledgements**: This shared task was created by OFAI with funding from the FFG project EKIP.
