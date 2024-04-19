@@ -83,7 +83,7 @@ become available.
   * The final leaderboard/ranking will be available once paper review and final submission is completed, on July 21th 2024.
 * **Paper submission due**: July 1, 2024
 * **Camera ready due**: July 20, 2024
-* **Shared Task @KONVENS**: 10 September, 2024
+* **[Shared Task @KONVENS](https://konvens-2024.univie.ac.at/)**: 10 September, 2024
 
 ## Feedback
 
