@@ -2,8 +2,6 @@
 
 IMPORTANT: please note that there is a [closed](closed-track.md) and an [open](open-track.md) track for this subtask!
 
-**Only submissions to the closed track which follow the rules for the closed track qualify for a paper submission and only an accepted paper qualifies for the 
-inclusion of your results in the final competition ranking.**
 
 In subtask 1 the goal is to predict labels for each text in a dataset where the labels are derived from the original 
 labels assigned by several human annotators. 
