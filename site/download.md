@@ -10,7 +10,7 @@ All files are made available under a [CC BY-NC-SA 4.0 License](https://creativec
 
 * [Training Data](data/germeval-trial-train.jsonl.gz)
 * [Testing Data](data/germeval-trial-test.jsonl.gz)
-
+* [Targets](data/germeval-trial-targets.json.gz)
 
 ## Development Phase
 
