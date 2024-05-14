@@ -1,8 +1,15 @@
 ## GermEval2024 Shared Task: GerMS-Detect -- Sexism Detection in German Online News Fora
 
+**UPDATE 2024-05-01**: 
 
-UPDATE 2024-04-30: please not that we have updated the rules for [open track](open-track.html) and [closed track](closed-track.html) 
-and corresponding paper submissions as well es the [terms and conditions](terms.html)
+* the **development phase** has started today and the training and test files have been added to the [downloads](download.html).
+* the targets file for the trial task has been added to the [downloads](download.html).
+* the [source code for the scoring program](https://github.com/OFAI/GermEval2024-GerMS/blob/main/python/scoring.py) is now available. See the [README](https://github.com/OFAI/GermEval2024-GerMS/blob/main/README.md).
+
+**UPDATE 2024-04-30**: please not that we have updated the rules for [open track](open-track.html) and [closed track](closed-track.html) 
+and corresponding paper submissions as well as the [terms and conditions](terms.html)
+
+----
 
 This shared task is about the detection of sexism/misogyny in comments
 posted in (mostly) German language to the comment section of an Austrian
