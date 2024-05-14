@@ -18,7 +18,7 @@ context which is not available or are formulated in a subtle way, avoiding
 strong or outright offensive language. 
 
 Texts have been annotated by several human annotators, with a large portion
-of the corpus being annotated by at least two annotators out of 8 (7 of whom 
+of the corpus being annotated by at least four annotators out of 10 (7 of whom 
 are forum moderators). 
 
 The main aim of annotating the presence and strength of sexism/misogyny in 
