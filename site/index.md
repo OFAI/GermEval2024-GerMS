@@ -82,11 +82,11 @@ become available.
 * **Trial phase**:  April 20 - April 29, 2024
   * A small labeled dataset for training and a small unlabeled dataset to use for the submission are provided. This phase is for getting to know the 
     problem, the dataset format, how to submit predictions, how submissions are evaluated and how the evaluation shows up on the leaderboard etc. 
-* **Development phase**: May 1 - June 5, 2024
+* **Development phase**: May 1 - June 7, 2024
   * During this phase, a labeled training set and an unlabeled test set are made available. The training set will contain the updated labeled versions of the 
     training and test set of the previous phase plus additional labeled examples. Submissions have to contain the predictions for the unlabeled test set
     and the evaluation of the submission will show up on the leaderbord. 
-* **Competition phase**: June 7 - June 25, 2024
+* **Competition phase**: June 8 - June 25, 2024
   * During this phase, the training data will consist of the training data of the previous phase plus the labeled test data of the previous phase 
     and a new unlabeled test set is made available. You can upload the labels for 
     the test set to the competition site and your latest submission will be the one that will be used for ranking. During that phase, the leaderboard is not shown. Please note that only submissions which adhere to all terms and rules are considered for the final ranking.

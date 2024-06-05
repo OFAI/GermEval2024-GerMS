@@ -21,8 +21,8 @@ Each of the Subtask 1 and Subtask 2 competitions are organized into two differen
 ---- Timeline ----
 
     Trial phase: April 20 - April 29, 2024
-    Development phase: May 1 - June 5, 2024
-    Competition phase: June 7 - June 25, 2024
+    Development phase: May 1 - June 7, 2024
+    Competition phase: June 8 - June 25, 2024
     Paper submission due: July 1, 2024
     Camera ready due: July 20, 2024
     Shared Task @KONVENS: 10 September, 2024
