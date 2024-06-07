@@ -22,7 +22,7 @@ and the codabench user who made the submission also matches the codabench user n
 
 **Submission of system description papers**: Participants having made at least one submission the Competition Phase will be able to submit a paper describing their system. For the closed track paper submission the open-source code of their solution has to be accessible to the public. We also stronly encourage providing open source solutions for the open track submissions as far as possible. 
 
-**Final Competition Ranking**: the final rankings for subtask 1 and subtask 2 are determined after the paper review and camera ready submission have ended. 
+**Final Competition Ranking**: the final rankings for subtask 1 and subtask 2 are determined after the paper review and camera ready submission have ended. The final ranking may deviate from what is shown on the leaderboard if participants did not adhere to the rules or if the algorithm for scoring submissions had to be updated.
 Only submissions for which a paper describing the solution has been submitted and an open source solution is available will be considered in the ranking. 
 
 **Acknowledgements**: This shared task was created by OFAI with funding from the FFG project EKIP.
