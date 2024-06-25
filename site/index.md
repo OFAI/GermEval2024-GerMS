@@ -9,7 +9,7 @@
   is showing up on the leaderboard for the subtask. Please make sure that your
   last submitted result is your best one and keep in mind that the total number
   of submissions is limited to 12 in the competition phase.
-* For the paper submission, the paper must:
+* For the paper submission, the paper has to:
   * follow the ACL style: https://github.com/acl-org/acl-style-files and can have a maximum of 8 pages, excluding the bibliography
   * be in PDF format. 
   * state the team name, subtask and track in the title. 
