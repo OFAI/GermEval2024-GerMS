@@ -24,5 +24,8 @@ and the codabench user who made the submission also matches the codabench user n
 
 **Final Competition Ranking**: the final rankings for subtask 1 and subtask 2 are determined after the paper review and camera ready submission have ended. 
 Only submissions for which a paper describing the solution has been submitted and an open source solution is available will be considered in the ranking. 
+**Please note that if a team has several submissions in the competition phase,
+only the latest submission (the one that also shows up on the leaderboard) 
+will be considered!**
 
 **Acknowledgements**: This shared task was created by OFAI with funding from the FFG project EKIP.

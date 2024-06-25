@@ -1,5 +1,12 @@
 ## GermEval2024 Shared Task: GerMS-Detect -- Sexism Detection in German Online News Fora
 
+**UPDATE 2024-06-25**
+
+* Since the question came up: for the competition phase, only the latest 
+  of several submissions will be considered, in other words, the one that 
+  is showing up on the leaderboard for the subtask. 
+
+
 **UPDATE 2024-05-01**: 
 
 * the **development phase** has started today and the training and test files have been added to the [downloads](download.html).
