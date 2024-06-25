@@ -9,6 +9,13 @@
   is showing up on the leaderboard for the subtask. Please make sure that your
   last submitted result is your best one and keep in mind that the total number
   of submissions is limited to 12 in the competition phase.
+* For the paper submission, the paper must:
+  * follow the ACL style: https://github.com/acl-org/acl-style-files and can have a maximum of 8 pages, excluding the bibliography
+  * be in PDF format. 
+  * state the team name, subtask and track in the title. 
+  * discuss an approach for at least one of the two closed track competitions
+  * contain a link to the open-source code used for the closed track submission(s) 
+  * be submitted to germeval2024(AT)ofai(DOT)at before the paper deadline
 
 
 **UPDATE 2024-05-01**: 
