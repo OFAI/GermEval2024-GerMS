@@ -2,8 +2,8 @@
 
 **UPDATE 2024-06-25**
 
-* !! The paper deadline has bin extended to end of day of July 3rd, CET (Central European Time)
-* !! The codabench deadline has bin extended to end of day of June 28th, CET
+* !! The paper deadline has bin extended to July 3rd, 23:59 CET (Central European Time)
+* !! The codabench deadline has bin extended to June 28th, 23:59 CET
 * Clarification: for the competition phase, only the latest 
   of several submissions will be considered, in other words, the one that 
   is showing up on the leaderboard for the subtask. Please make sure that your
