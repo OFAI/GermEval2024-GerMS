@@ -2,9 +2,13 @@
 
 **UPDATE 2024-06-25**
 
-* Since the question came up: for the competition phase, only the latest 
+* !! The paper deadline has bin shifted to end of day of July 3rd, CET (Central European Time)
+* !! The codabench deadline has bin shifted to end of day of June 28th, CET
+* Clarification: for the competition phase, only the latest 
   of several submissions will be considered, in other words, the one that 
-  is showing up on the leaderboard for the subtask. 
+  is showing up on the leaderboard for the subtask. Please make sure that your
+  last submitted result is your best one and keep in mind that the total number
+  of submissions is limited to 12 in the competition phase.
 
 
 **UPDATE 2024-05-01**: 
@@ -99,7 +103,7 @@ become available.
     the test set to the competition site and your latest submission will be the one that will be used for ranking. Please note that only submissions which adhere to all terms and rules are considered for the final ranking.
   * A preliminary final leaderboard/ranking is shown after the end of the competition phase. 
   * The final leaderboard/ranking will be available once paper review and final submission is completed, on July 21th 2024.
-* **Paper submission due**: July 1, 2024
+* **Paper submission due**: July 1, 23:59 CET, 2024
 * **Camera ready due**: July 20, 2024
 * **[Shared Task @KONVENS](https://konvens-2024.univie.ac.at/)**: 10 September, 2024
 
