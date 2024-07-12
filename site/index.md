@@ -1,5 +1,9 @@
 ## GermEval2024 Shared Task: GerMS-Detect -- Sexism Detection in German Online News Fora
 
+**UPDATE 2024-07-12**:
+
+* The deadline for the camera-ready paper submission has been changed to 2024-07-23, 23:59 CET
+
 **UPDATE 2024-05-01**: 
 
 * the **development phase** has started today and the training and test files have been added to the [downloads](download.html).
@@ -91,9 +95,9 @@ become available.
     and a new unlabeled test set is made available. You can upload the labels for 
     the test set to the competition site and your latest submission will be the one that will be used for ranking. During that phase, the leaderboard is not shown. Please note that only submissions which adhere to all terms and rules are considered for the final ranking.
   * A preliminary leaderboard/ranking is shown after the end of the competition phase. 
-  * The final leaderboard/ranking will be available once paper review and final submission is completed, on July 21th 2024.
+  * The final leaderboard/ranking will be available once paper review and final submission is completed, on July ~~21st~~ 24th 2024.
 * **Paper submission due**: July 1, 2024
-* **Camera ready due**: July 20, 2024
+* **Camera ready due**: July ~~20~~ 23, 2024
 * **[Shared Task @KONVENS](https://konvens-2024.univie.ac.at/)**: 10 September, 2024
 
 ## Feedback
