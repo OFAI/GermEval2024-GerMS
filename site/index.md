@@ -4,6 +4,23 @@
 
 * The deadline for the camera-ready paper submission has been changed to 2024-07-23, 23:59 CET
 
+**UPDATE 2024-06-25**
+
+* !! The paper deadline has been extended to July 3rd, 23:59 CET (Central European Time)
+* !! The codabench deadline has been extended to June 28th, 23:59 CET
+* Clarification: for the competition phase, only the latest 
+  of several submissions will be considered, in other words, the one that 
+  is showing up on the leaderboard for the subtask. Please make sure that your
+  last submitted result is your best one and keep in mind that the total number
+  of submissions is limited to 12 in the competition phase.
+* For the paper submission, the paper has to:
+  * follow the ACL style: https://github.com/acl-org/acl-style-files and can have a maximum of 8 pages, excluding the bibliography
+  * be in PDF format. 
+  * state the team name, subtask and track in the title. 
+  * discuss an approach for at least one of the two closed track competitions
+  * contain a link to the open-source code used for the closed track submission(s) 
+  * be submitted to germeval2024(AT)ofai(DOT)at before the paper deadline
+
 **UPDATE 2024-05-01**: 
 
 * the **development phase** has started today and the training and test files have been added to the [downloads](download.html).
@@ -86,18 +103,26 @@ become available.
 * **Trial phase**:  April 20 - April 29, 2024
   * A small labeled dataset for training and a small unlabeled dataset to use for the submission are provided. This phase is for getting to know the 
     problem, the dataset format, how to submit predictions, how submissions are evaluated and how the evaluation shows up on the leaderboard etc. 
-* **Development phase**: May 1 - June 5, 2024
+* **Development phase**: May 1 - June 6, 2024
   * During this phase, a labeled training set and an unlabeled test set are made available. The training set will contain the updated labeled versions of the 
     training and test set of the previous phase plus additional labeled examples. Submissions have to contain the predictions for the unlabeled test set
     and the evaluation of the submission will show up on the leaderbord. 
-* **Competition phase**: June 7 - June 25, 2024
+* **Competition phase**: June 8 - ~~June 25~~ June 28 2024 23:59 CET
   * During this phase, the training data will consist of the training data of the previous phase plus the labeled test data of the previous phase 
     and a new unlabeled test set is made available. You can upload the labels for 
+<<<<<<< HEAD
     the test set to the competition site and your latest submission will be the one that will be used for ranking. During that phase, the leaderboard is not shown. Please note that only submissions which adhere to all terms and rules are considered for the final ranking.
   * A preliminary leaderboard/ranking is shown after the end of the competition phase. 
   * The final leaderboard/ranking will be available once paper review and final submission is completed, on July ~~21st~~ 24th 2024.
 * **Paper submission due**: July 1, 2024
 * **Camera ready due**: July ~~20~~ 23, 2024
+=======
+    the test set to the competition site and your latest submission will be the one that will be used for ranking. Please note that only submissions which adhere to all terms and rules are considered for the final ranking.
+  * A preliminary final leaderboard/ranking is shown after the end of the competition phase. 
+  * The final leaderboard/ranking will be available once paper review and final submission is completed, on July 21th 2024.
+* **Paper submission due**: ~~July 1~~ July 3rd, 23:59 CET, 2024
+* **Camera ready due**: July 20, 2024
+>>>>>>> 9b8256e3e4bfcea966f492f0d26e4e1c28902a9b
 * **[Shared Task @KONVENS](https://konvens-2024.univie.ac.at/)**: 10 September, 2024
 
 ## Feedback

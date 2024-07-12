@@ -9,6 +9,7 @@ There is a _Closed Track_ competition for each of the two subtasks. Please note 
   * the use of large language models, where the exact training data and, if applicable, fine-tuning steps are not known or reproducible is not allowed
   * the use of other models, ontologies, knowledge bases or similar that contains specific knowledge about sexism / misogyny is not allowed
   * pretrained models like BERT or embeddings are allowed as long as they have not been specifically pre-trained or fine-tuned on sexism/misogyny-specific data other than the data shared for this competition
+  * Large language models (LLMs) are not allowed in the closed tracks, as they might have been pre-trained or instruction-finetuned  with sexism/misogyny specific dat, please use these models in the [open tracks](open-track.html)
 * If in doubt if your approach is compatible with the closed track requirements, please ask in the competition forum or send an email to the 
   organizers. If you send an email to the organizers you can include information which you might not want to share in the forum which the organizers will 
   keep confidential. 
