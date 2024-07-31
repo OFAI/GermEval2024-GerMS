@@ -16,7 +16,7 @@ All files are made available under a [CC BY-NC-SA 4.0 License](https://creativec
 
 * [Training Data](data/germeval-development-train.jsonl.gz)
 * [Testing Data](data/germeval-development-test.jsonl.gz)
-* [Targets](data/germeval-development-target.json.gz)
+* [Targets](data/germeval-development-targets.json.gz)
 
 ## Competition Phase
 
