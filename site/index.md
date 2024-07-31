@@ -1,5 +1,9 @@
 ## GermEval2024 Shared Task: GerMS-Detect -- Sexism Detection in German Online News Fora
 
+**UPDATE 2024-07-31**:
+
+* The targets for the development and competition phases have been added to the [download](download.html) page.
+
 **UPDATE 2024-07-12**:
 
 * The deadline for the camera-ready paper submission has been changed to 2024-07-23, 23:59 CET
