@@ -3,6 +3,7 @@
 **UPDATE 2024-07-31**:
 
 * The targets for the development and competition phases have been added to the [download](download.html) page.
+* The full GerMS-AT corpus has now also been published as [HuggingFace Dataset GerMS-AT](https://huggingface.co/datasets/ofai/GerMS-AT)
 
 **UPDATE 2024-07-12**:
 
