@@ -127,9 +127,9 @@ If you have questions, if you encounter problems or if you want to give any othe
 forum for the Codabench competition (or just any forum if your feedback applies to all of them):
 
 * [Subtask 1 Closed Track Forum](https://www.codabench.org/forums/2662/)
-* [Subtask 1 Closed Track Forum](https://www.codabench.org/forums/2663/)
-* [Subtask 1 Closed Track Forum](https://www.codabench.org/forums/2664/)
-* [Subtask 1 Closed Track Forum](https://www.codabench.org/forums/2665/)
+* [Subtask 1 Open Track Forum](https://www.codabench.org/forums/2663/)
+* [Subtask 2 Closed Track Forum](https://www.codabench.org/forums/2664/)
+* [Subtask 2 Open Track Forum](https://www.codabench.org/forums/2665/)
 
 Only if your feedback involves confidential information you do not want to share on one of these forums, contact 
 the Organizers directly by email: germeval2024 (AT) ofai (DOT) at
