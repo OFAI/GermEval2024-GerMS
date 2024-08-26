@@ -2,7 +2,7 @@
 
 **UPDATE 2024-07-26**:
 
-* The [program for the GermEval 2024 Task 1 GerMS-Detect Workshop](/workshop) is now online
+* The [program for the GermEval 2024 Task 1 GerMS-Detect Workshop](workshop) is now online
 
 **UPDATE 2024-07-31**:
 
