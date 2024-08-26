@@ -1,5 +1,9 @@
 ## GermEval2024 Shared Task: GerMS-Detect -- Sexism Detection in German Online News Fora
 
+**UPDATE 2024-07-26**:
+
+* The [program for the GermEval 2024 Task 1 GerMS-Detect Workshop](/workshop) is now online
+
 **UPDATE 2024-07-31**:
 
 * The targets for the development and competition phases have been added to the [download](download.html) page.

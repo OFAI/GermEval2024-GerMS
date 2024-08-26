@@ -1,4 +1,4 @@
-# GermEval 2024 Task 1 GerMS-Detect Workshop and Podium Discussionubtask 
+# GermEval 2024 Task 1 GerMS-Detect Workshop and Podium Discussion
 
 ### When/Where
 
