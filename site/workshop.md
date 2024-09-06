@@ -8,7 +8,7 @@
   BMK (Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology)
   Radetzkystraße 2, 1030 Vienna
   Room EA08 (ground floor)
-  Note: **Please, bring your passport or identity card to get acces to the event space!!!**
+  Note: **Please, bring your passport or identity card to get access to the event space!!!**
 
 
 ### Programme
