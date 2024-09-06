@@ -8,6 +8,7 @@
   BMK (Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology)
   Radetzkystraße 2, 1030 Vienna
   Room EA08 (ground floor)
+  Note: **Please, bring your passport or identity card to get acces to the event space!!!**
 
 
 ### Programme
@@ -24,7 +25,8 @@
 
 * 16:00 - 16:30 optionally Free Discussion / Break
   
-### Podium Discussion
+### Panel Discussion
 
-16:30 - 17:30 Podium Discussion on **Use and Utility of AI in Media Content Production**
+16:30 - 17:30 Panel Discussion on **Use and Utility of AI in Media Content Production** (read more [here in German](./Podiumsdiskussion-Ankuendigung.md) and [here in English](./Podiumsdiskussion-Ankuendigung-EN.md))<br>
+Note: The panel discussion will be held in German, and will be  translated into English if required.
 
