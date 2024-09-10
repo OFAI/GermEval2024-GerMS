@@ -1,5 +1,13 @@
 ## GermEval2024 Shared Task: GerMS-Detect -- Sexism Detection in German Online News Fora
 
+**UPDATE 2024-09-10**:
+
+* There is now a post-competition phase open for all subtasks on codabench!
+  * if you have already participated in a task before, you can now submit to the post-competition phase
+  * if you did not participate before please  [register your team](https://docs.google.com/forms/d/e/1FAIpQLSfgEL-SQrHAhZZjiYdJTGJyGTBPR7YfpDtYtAcGm4JkAMdEgg/viewform) 
+  * if you have already registered your team you can submit to the post-competition phase
+  * if you did not apply for a subtask yet, you may need to do that first.
+
 **UPDATE 2024-07-26**:
 
 * The [program for the GermEval 2024 Task 1 GerMS-Detect Workshop](workshop) is now online
@@ -125,6 +133,7 @@ become available.
 * **Paper submission due**: July 1, 2024
 * **Camera ready due**: July ~~20~~ 23, 2024
 * **[Shared Task @KONVENS](https://konvens-2024.univie.ac.at/)**: 10 September, 2024
+* **Post Competition Phase starting on CodaBench**: 10 September, 2024
 
 ## Feedback
 
