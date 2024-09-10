@@ -8,6 +8,7 @@
   BMK (Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology)
   Radetzkystraße 2, 1030 Vienna
   Room EA08 (ground floor)
+  Note: **Please, bring your passport or identity card to get access to the event space!!!**
 
 
 ### Programme
@@ -20,10 +21,12 @@
 * 14:30 - 14:45 Coffee Break
 * 14:45 - 15:15 *Detecting Sexism in German Online Newspaper Comments with Open-Source Text Embeddings (Team GDA, GermEval2024 Shared Task 1: GerMS-Detect, Subtasks 1 and 2, Closed Track)* (oral presentation)
 * 15:15 - 15:45 *pd2904 at GermEval2024 (Shared Task 1: GerMS-Detect): Exploring the Effectiveness of Multi-Task Transformers vs. Traditional Models for Sexism Detection (Closed Tracks of Subtasks 1 and 2)* (oral presentation)
-* 15:45 - 16:00 Team lmr (short oral presentation)
+* 15:45 - 16:00 *Team lmr: Transformer-based Multitask Learning German Sexism Detector (GermEval2024 Shared Task 1 GerMS-Detect, Closed Tracks of Subtasks 1 and 2)* (short oral presentation)
+
 * 16:00 - 16:30 optionally Free Discussion / Break
   
-### Podium Discussion
+### Panel Discussion
 
-16:30 - 17:30 Podium Discussion on **Use and Utility of AI in Media Content Production**
+16:30 - 17:30 Panel Discussion on **Use and Utility of AI in Media Content Production** (read more [here in German](./Podiumsdiskussion-Ankuendigung.md) and [here in English](./Podiumsdiskussion-Ankuendigung-EN.md))<br>
+Note: The panel discussion will be held in German, and will be  translated into English if required.
 
