@@ -10,6 +10,9 @@
   Room EA08 (ground floor)
   Note: **Please, bring your passport or identity card to get access to the event space!!!**
 
+### Proceedings
+
+GerMS-Detect Proceedings [(pdf)](./proceedings-GermEval2024_GerMS-Detect.pdf)
 
 ### Programme
 
@@ -21,7 +24,7 @@
 * 14:30 - 14:45 Coffee Break
 * 14:45 - 15:15 *Detecting Sexism in German Online Newspaper Comments with Open-Source Text Embeddings (Team GDA, GermEval2024 Shared Task 1: GerMS-Detect, Subtasks 1 and 2, Closed Track)* (oral presentation)
 * 15:15 - 15:45 *pd2904 at GermEval2024 (Shared Task 1: GerMS-Detect): Exploring the Effectiveness of Multi-Task Transformers vs. Traditional Models for Sexism Detection (Closed Tracks of Subtasks 1 and 2)* (oral presentation)
-* 15:45 - 16:00 *Team lmr: Transformer-based Multitask Learning German Sexism Detector (GermEval2024 Shared Task 1 GerMS-Detect, Closed Tracks of Subtasks 1 and 2)* (short oral presentation)
+* 15:45 - 16:00 *Team lmr: Transformer-based Multitask Learning German Sexism Detector (GermEval2024 Shared Task 1 GerMS-Detect, Closed Tracks of Subtasks 1 and 2)* (short oral presentation, [slides](./taimoor_khan.pdf))
 
 * 16:00 - 16:30 optionally Free Discussion / Break
   
